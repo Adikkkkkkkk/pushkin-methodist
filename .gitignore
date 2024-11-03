@@ -4,6 +4,8 @@ node_modules
 # build artefacts
 public
 css
+!public/admin/config.yml
+
 
 # secrets and errors
 .env
